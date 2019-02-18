@@ -40,7 +40,7 @@
     
     function turnAround (){ 
     
-    direction=!direction; /*direction equal not direction, direction is opposite of false, which is true.*/
+    direction=!direction; /*direction equal not direction, direction is opposite of true.*/
     }
     moveForward(5);
     moveBackward(3);
